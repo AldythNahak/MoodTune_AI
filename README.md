@@ -4,6 +4,8 @@ MoodTune AI is an AI-powered music recommendation chatbot built using Streamlit,
 
 The app analyzes the user's mood, genre preference, and prompts to generate personalized song recommendations with playable Spotify embeds.
 
+<img width="1511" height="903" alt="Screenshot 2026-05-12 at 6 21 09 PM" src="https://github.com/user-attachments/assets/22751a7d-7410-46bd-9050-62151b5cf20b" />
+
 ---
 
 # ✨ Features
